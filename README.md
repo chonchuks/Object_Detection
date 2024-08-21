@@ -16,7 +16,7 @@ This project focuses on the review, evaluation, and pruning of the FasterRCNN Re
 - numpy
 - matplotlib
 
-Usage
+**Usage**
 
 Model Evaluation
 Prepare the Dataset: Download the PASCAL VOC 2007 dataset.
@@ -25,7 +25,7 @@ Model Pruning
 Prune the Model.
 Evaluate Pruned Model.
 
-Project Highlights
+**Project Highlights**
 
 Provided insights into the evolution and state of object detection models, leading to the selection of FasterRCNN ResNet-50.
 
@@ -33,8 +33,9 @@ Optimized for Edge Devices: The pruned model is tailored for deployment on devic
 
 Real-World Applicability: This project enhances the feasibility of deploying advanced object detection models in real-time applications like video surveillance and autonomous systems.
 
-Results
+**Results**
+
 The pruned FasterRCNN ResNet-50 model achieved a significant reduction in size and computational requirements, with minimal impact on accuracy. Detailed results are available in the results directory.
 
-Contributions
+**Contributions**
 Chukwuka Onwubolu - Developer and Researcher
