@@ -31,7 +31,7 @@ My project focuses on the review, evaluation, and pruning of the FasterRCNN ResN
 - **🌐 Real-World Applicability:** This project enhances the feasibility of deploying advanced object detection models in real-time applications like video surveillance and autonomous systems.
 
 ## 🏆 Results
-The pruned FasterRCNN ResNet-50 model achieved a significant reduction in size and computational requirements, with minimal impact on accuracy. Detailed results are available in the `results` directory.
+The pruned FasterRCNN ResNet-50 model achieved a significant reduction in size and computational requirements, with minimal impact on accuracy. 
 
 ## 👥 Contributions
 - **Chukwuka Onwubolu** - Developer and Researcher
